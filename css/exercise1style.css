@@ -1,0 +1,18 @@
+h1{
+	color: #FF6B6B;
+	text-align: center;
+	border-bottom: 2px white dashed;
+}
+body{
+	background: #4C4053;
+}
+ol{
+	color: white;
+	border: 3px #4ECDC4 solid;
+}
+#q1{
+	color: #ED8F1F;
+}
+img{
+	border: 3px white solid;
+}
