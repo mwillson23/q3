@@ -1,0 +1,26 @@
+img{
+	border: 3px blue solid;
+	width: 25%;
+}
+body{
+	background-color: #D3D3D3;
+}
+#q1{
+	border: 3px #2AE0EF solid;
+}
+#q2{
+	border: 3px #D4BD8A solid;
+}
+#q3{
+	border: 3px #552583 solid;
+}
+#q4{
+	border: 3px #73000A solid;
+}
+#q5{
+	border:  3px #AD9B56 solid;
+}
+h1{
+	text-align: center;
+	color: #FF0000;
+}
