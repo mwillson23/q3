@@ -1,0 +1,38 @@
+.wrapper{
+	max-width: 80%;
+	margin:0 auto;
+	background-color: #848484;
+	padding: 10px;
+}
+h1{
+	background-color: lightblue;
+	padding: 10px;
+	text-align: center;
+}
+img{
+	float: left;
+	padding-right: 10px;
+	width: 25%;
+}
+.clearfix:after{
+	content:"";
+	visibility:hidden;
+	display: block;
+	height: 0;
+	clear:both;
+}
+img{
+	padding-right: 20px;
+}
+.s1{
+	background-color: #E89576; 
+}
+.s2{
+	background-color: #B20000;
+}
+.s3{
+	background-color: #D7B300;
+}
+footer{
+	text-align: center;
+}

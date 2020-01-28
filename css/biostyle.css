@@ -1,3 +1,10 @@
+.wrapper{
+	margin: 0 auto;
+	max-width: 80%;
+	background-color: #5E8EE3;
+	padding: 20px;
+	border: 3px black solid;
+}
 h1{
 	text-align: center;
 }
@@ -19,4 +26,25 @@ img{
 }
 .basketballpara{
 	color: red;
+}
+footer{
+	text-align: center;
+}
+section{
+	margin: 10px;
+	padding: 20px;
+	border: 3px black solid;
+	font-size: 25px;
+}
+.s1{ 
+	background-color: #F7714D  
+}
+.s2
+{background-color: #B1F88C  
+}
+.s3{
+	background-color: #F7714D  
+}
+.s4{
+	background-color: #B1F88C  
 }
