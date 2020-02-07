@@ -40,7 +40,6 @@ img{
 	max-width: 50%;
 	float:left;
 	clear: left;
-	padding: 10px;
 }
 .clearfix:after{
 	content:"";
