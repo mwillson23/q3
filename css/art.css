@@ -1,0 +1,97 @@
+#painting{
+ background-color: #fff4db;
+    width: 540px;
+    height: 340px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 10px 10px 0px #8d8d8d;
+}
+body{
+	background-color: #BABD00;
+}
+#toprow{
+	height: 50px;
+	width: 540px;
+}
+#row2{
+	height: 20px;
+}
+#row3{
+	height: 50px;
+	width: 540px;
+}
+#row4{
+	height: 50px;
+	width: 540px;
+}
+#row5{
+	height: 50px;
+	width: 540px;
+}
+#row6{
+	height: 50px;
+	width: 540px;
+}
+#row7{
+	height: 20px;
+}
+.red{
+	background-color: #F91919;  
+}
+.blue {
+    background-color: blue; 
+}
+.white {
+    background-color: white;   
+}
+.black {
+    background-color: black;   
+}
+.right {
+    float: right;
+}
+.rec1{
+	height: 50px;
+	width: 100px;
+}
+.rec2{
+	height: 50px;
+	width: 300px;
+}
+.rec3{
+	height: 50px;
+	width: 100px;
+}
+.divider1{
+	height: 50px;
+	width: 20px;
+}
+.divider2{
+	height: 20px;
+	width: 540px;
+}
+.divider3{
+	height: 50px;
+	width: 20px;
+}
+.ss{
+	height: 50px;
+	width: 100px;
+}
+.sx{
+	height: 50px;
+	width: 100px;
+}
+.bb{
+	height: 50px;
+	width: 100px;
+}
+.s1{
+	height: 50px;
+	width: 300px;
+}
+.s2{
+	height: 50px;
+	width: 420px;
+}

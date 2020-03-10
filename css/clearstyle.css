@@ -10,6 +10,9 @@ h1{
 img{
 	float: left;
 	padding-right: 10px;
+	max-width: 25%;
+	padding-left: 10px;
+	padding-bottom: 5px;
 }
 .clearfix:after{
 	content:"";
